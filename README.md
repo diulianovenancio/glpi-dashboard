@@ -1,22 +1,5 @@
 # Atenção: 
-# Com o lançamento do GLPI 10 este plugin será descontinuado.
-Mais informações em: 
-
-https://glpi-project.org/
-
-https://glpi10.com/
-
-
-# Attention:
-# With the release of GLPI 10 this plugin will be discontinued. 
-More info:
-
-https://glpi-project.org/ 
-
-https://glpi10.com/
-
-
-
+# Este plugin será adaptado a algumas necessidades, tais como, atendimento de vários setores separados por grupos, atendimento a matriz e filiais separados por entidades.
 
 # Dashboard
 
@@ -26,16 +9,6 @@ https://glpi10.com/
 2 - Na interface do GLPI acessar Configurar -> Plugins e efetuar a instalação.
 
 3 - Acessar no menu do GLPI: Plugins -> Dashboard
-
-
-#############################################################
-
-
-1 - Perform the installation as any plugin, unzipping the file and copying the folder to the plugins folder in GLPI server.
-
-2 - In the GLPI interface to access Setup -> Plugins for installation.
-
-3 - Get in GLPI Menu: Plugins -> Dashboard
 
 
 ##############################################################
